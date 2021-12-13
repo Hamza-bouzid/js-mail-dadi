@@ -1,0 +1,26 @@
+body {
+  background-color: #21272e;
+  font-size: 40px;
+}
+
+#container {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.player,
+.computer {
+  margin: 30px 50px;
+  text-align: center;
+}
+
+
+.red {
+  color: #be302b;
+}
+
+.green {
+  color: #39a760;
+}
