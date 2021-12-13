@@ -1,0 +1,16 @@
+body {
+  background-color: #21272e;
+  color: #fff;
+  font-size: 60px;
+}
+#heading {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+
+h1 {
+  color: #e74c3c;
+  display: inline-block;
+  font-size: 60px;
+}
